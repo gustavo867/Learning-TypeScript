@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
-import api from './services/api'
+import api from './services/api';
 
-import User from './components/User'
+import User from './components/User';
 
 interface IUser {
   name: string,
